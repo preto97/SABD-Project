@@ -2,7 +2,7 @@ package books
 
 import (
 	"errors"
-	"github.com/GoesToEleven/golang-web-dev/046_mongodb/16_go-mongo/config"
+	"https://github.com/preto97/SABD-Project/tree/main/config"
 	"gopkg.in/mgo.v2/bson"
 	"net/http"
 	"strconv"
