@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/GoesToEleven/golang-web-dev/046_mongodb/16_go-mongo/books"
+	"https://github.com/preto97/SABD-Project/tree/main/books"
 	"net/http"
 )
 
