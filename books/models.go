@@ -2,7 +2,7 @@ package books
 
 import (
 	"errors"
-	"https://github.com/preto97/SABD-Project/tree/main/config"
+	"github.com/preto97/SABD-Project/tree/main/config"
 	"gopkg.in/mgo.v2/bson"
 	"net/http"
 	"strconv"

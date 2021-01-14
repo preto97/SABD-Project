@@ -1,7 +1,7 @@
 package main
 
 import (
-	"https://github.com/preto97/SABD-Project/tree/main/books"
+	"github.com/preto97/SABD-Project/tree/main/books"
 	"net/http"
 )
 
